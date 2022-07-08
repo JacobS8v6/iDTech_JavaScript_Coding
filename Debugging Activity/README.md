@@ -1,1 +1,2 @@
 # Debugging Activity
+For this assignment, the html file is a page that opens on Chrome with various issues that must be solved through the various example.js files. Only three out of the four were required.
