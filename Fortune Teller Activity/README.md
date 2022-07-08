@@ -1,1 +1,2 @@
 # Fortune Teller Activity
+In this activity, I built a line of code that logs your future onto the console based on what number is entered in the 'fortune' variable. If you happen to choose a number that is not 1-10, then you will get a suggestion to enter one of the available numbers.
