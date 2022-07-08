@@ -1,1 +1,2 @@
 # Project Pt 1 - PacMan Activity
+This code makes Pacman move from one end of the screen to the other, no matter how wide or narrow (you might need to reload the page for pacman to register the change in page length).
