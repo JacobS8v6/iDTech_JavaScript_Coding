@@ -1,2 +1,2 @@
 # JavaScript Coding
-this is the repositorium file that I hath cloned via forking, from iD Tech of course
+This is the repository file that I have cloned via forking, from iD Tech.
