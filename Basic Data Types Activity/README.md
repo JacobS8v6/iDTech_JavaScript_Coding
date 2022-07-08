@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+This line of code tells a story in the console using different variables and stand-in words. This is an original story stemming from the long running universe of Warhammer 40k.
